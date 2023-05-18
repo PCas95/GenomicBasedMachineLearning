@@ -242,7 +242,7 @@ The second part prepares to and performs the statistical analyses on machine lea
 
 # References
 
-- P. Castelli, A. De Ruvo, C. Cammà, A. Di Pasquale and N. Radomski. "Supervised machine learning workflow based on genomic data : Case study of Listeria monocytogenes source attribution". 2023, XXXXX, X(XXXX): X-XX, doi.org/XXXXXXXXXX
+- P. Castelli, A. De Ruvo, C. Cammà, A. Di Pasquale and N. Radomski. "Supervised machine learning workflow based on genomic data : Case study of Listeria monocytogenes source attribution". (under reviewing)
 
 # Acknowledgements
 
