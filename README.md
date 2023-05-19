@@ -96,9 +96,7 @@ install.packages("reshape2")
 install.packages("lubridate")
 ```
 
-> The libraries above only refer to heatmappe.R. Use the same function on libraries used by the other 2 scripts as needed.
-
-The needed libraries have now been installed on your system. The `install.packages()` R function calls are also present as commented lines in the heatmappe.R, boxplots.R and ANOVA.R source code.
+> Note: The example above only lists libraries related to heatmappe.R. 
 
 # `heatmappe.R`
 
