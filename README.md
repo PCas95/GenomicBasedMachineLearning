@@ -146,7 +146,7 @@ The ANOVA.R script is provided for peer-review reproducibility of statistical an
 
 # References
 
-- Castelli P., De Ruvo A., Bucciacchio A., D’Alterio N., Cammà C., Di Pasquale A. and Radomski N. "Harmonization of supervised machine learning practices for efficient source attribution of Listeria monocytogenes based on genomic data". BMC Genomics 24, 560 (2023). <https://doi.org/10.1186/s12864-023-09667-w>
+- Castelli P., De Ruvo A., Bucciacchio A., D’Alterio N., Cammà C., Di Pasquale A. and Radomski N. "Harmonization of supervised machine learning practices for efficient source attribution of Listeria monocytogenes based on genomic data". BMC Genomics 24, 560 (2023), <https://doi.org/10.1186/s12864-023-09667-w>.
 
 # Acknowledgements
 
