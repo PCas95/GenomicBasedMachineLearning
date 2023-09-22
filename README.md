@@ -1,6 +1,6 @@
 # Introduction to GenomicBasedMachineLearning
 
-The repository "GenomicBasedMachineLearning" aims at making available the 3 scripts used for data management and production of Figures 2 and 3 plus Additional Files 3, 4, 7 and 8 from the research article "Source attribution of Listeria monocytogenes through a versatile supervised machine learning workflow based on genomic data".
+The repository "GenomicBasedMachineLearning" aims at making available the 3 scripts used for data management and production of Figures 2 and 3 plus Additional Files 3, 4, 7 and 8 from the research article "Harmonization of supervised machine learning practices for efficient source attribution of Listeria monocytogenes based on genomic data" (<https://doi.org/10.1186/s12864-023-09667-w>).
 
 The 3 scripts available in this repository are:
 
@@ -146,7 +146,7 @@ The ANOVA.R script is provided for peer-review reproducibility of statistical an
 
 # References
 
-- P. Castelli, A. De Ruvo, C. Cammà, A. Di Pasquale and N. Radomski. "Supervised machine learning workflow based on genomic data : Case study of Listeria monocytogenes source attribution". (under reviewing)
+- Castelli P., De Ruvo A., Bucciacchio A., D’Alterio N., Cammà C., Di Pasquale A. and Radomski N. "Harmonization of supervised machine learning practices for efficient source attribution of Listeria monocytogenes based on genomic data". BMC Genomics 24, 560 (2023). <https://doi.org/10.1186/s12864-023-09667-w>
 
 # Acknowledgements
 
